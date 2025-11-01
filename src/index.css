@@ -1,0 +1,11 @@
+/* main.css */
+@import "tailwindcss";
+
+/* custom global styles after the import */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.syshack-gradient {
+  background: linear-gradient(135deg, #1a365d 0%, #2d3748 100%);
+}
